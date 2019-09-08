@@ -1,0 +1,9 @@
+Sample Task:  Prompt.atmx
+
+
+Demonstrates:        
+	This task demonstrates one of the advance features of Automation Anywhere. The ability to prompt user for value  and assign that value to a variable to be used again in the task.  
+
+The value of variable ($Prompt-Assignment$) before Prompt is Test-Value.
+
+Now Automation Anywhere will prompt you for your name and the value that you type in the Prompt b
